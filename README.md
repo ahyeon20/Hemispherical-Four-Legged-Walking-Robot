@@ -19,3 +19,5 @@ This is a hemispherical quadruped robot. It implements inverse kinematics and al
   Arduino IDE  
   C++  
   보행방식: creep gait
+
+> 이미지 출처: [How to Program a Quadruped Robot with Arduino](https://makezine.com/article/technology/robotics/robot-quadruped-arduino-program/)
