@@ -10,7 +10,9 @@ This is a hemispherical quadruped robot. It implements inverse kinematics and al
   외피 재질: PLA
 
   구동모터:
+
     -2XL430-W250-T X4
+
     -CLS400MD
 
   MCU: 아두이노 메가
