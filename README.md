@@ -17,4 +17,5 @@ This is a hemispherical quadruped robot. It implements inverse kinematics and al
 **소프트웨어 (Software):**
 
   Arduino IDE  
-  C++
+  C++  
+  보행방식: creep gait
