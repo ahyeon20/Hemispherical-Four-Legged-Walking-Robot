@@ -8,18 +8,13 @@ This is a hemispherical quadruped robot. It implements inverse kinematics and al
 **하드웨어 (Hardware):**
 
   외피 재질: PLA  
-  구동모터:
-
-    -2XL430-W250-T X4
-
-    -CLS400MD
-
-  MCU: 아두이노 메가
-
+  구동모터:  
+    -2XL430-W250-T X4  
+    -CLS400MD  
+  MCU: 아두이노 메가  
   모터드라이버: 다이나믹셀 쉴드
   
 **소프트웨어 (Software):**
 
-  Arduino IDE
-
+  Arduino IDE  
   C++
